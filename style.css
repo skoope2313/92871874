@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+header {background-color:cornflowerblue;
+}
+.logo {padding: 5px ;margin: 5px;
+}
+header a {text-decoration: none;
+}
+h1 {text-align: center; font-size: 50px;color:brown; background-color: burlywood;
+border: 2px solid burlywood;border-radius: 30px; padding:15px;
+} 
+footer {color: brown;text-align: center;border: 3px solid burlywood;
+border-radius: 30px;padding: 15px;margin: 15px ;background-color: burlywood;
+}
+nav {margin: 40px ;padding: 30px; border: 3px solid burlywood;border-radius: 15px;
+}
+nav a{ margin: 20px; font-size: 15px;text-align: none;color: brown;
+border:2px solid brown; border-radius: 20px; padding: 10px; text-align: center;
+}
+main p {background-color: burlywood;border: 3px solid burlywood;border-radius: 30px;padding: 15px;
+}
